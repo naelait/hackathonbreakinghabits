@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	background-color: #FF6200;
+	height: 135px;
+	color: white;
+	.img_ing {
+	}
+
+	.infos_user {
+		h1 {
+			margin-top: 20px;
+			margin-left: 125px;
+		}
+		h2 {
+			margin-top: 1px;
+			margin-left: 134px;
+		}
+	}
+
+	.solde {
+		h1 {
+			margin-top: 40px;
+			margin-left: 30px;
+		}
+	}
+}
+
+.onglets {
+	background-color: #FF6200;
+	height: 80px;
+	color: white;
+	.historique {
+		h1 {
+			margin-top: 13px;
+			margin-left: 45px;
+		}
+	}
+	.factures {
+		h1 {
+			margin-top: 13px;
+			margin-left: 63px;
+		}
+	}
+	.delay {
+		h1 {
+			margin-top: 13px;
+			margin-left: 88px;
+		}
+	}
+}
+
+#facture_1 {
+  filter: grayscale(100%);
+}
