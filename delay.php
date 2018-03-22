@@ -4,7 +4,7 @@
 	<title>breakinghabitshackathon</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
-  <link rel="stylesheet" type="text/css" href="assets/style/css/styleFacture.css">
+  <link rel="stylesheet" type="text/css" href="assets/style/css/styleDelay.css">
 	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script defer src="assets/style/fontawesome-free-5.0.4/svg-with-js/js/fontawesome-all.js"></script>
@@ -59,7 +59,7 @@
           </div>
           <div class="bill_wrapper-info col-8">
             <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
-            <div class="to_pay"><span class="to_pay">50 €</span><span class="date">to paid before 18 November 2018</span></div>
+            <div class="to_pay"><span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span></div>
           </div>
           <div class="bill_delay col-2">
             <span>Delay</span>
@@ -74,7 +74,7 @@
           </div>
           <div class="bill_wrapper-info col-8">
             <p class="bill_name">Proximus<span class="bill_name-specific">(Tv and Telecom)</span></p>
-            <div class="to_pay"><span class="to_pay">90 €</span><span class="date">to paid before 22 October 2018</span></div>
+            <div class="to_pay"><span class="to_pay">90 €</span><span class="date">pay the 22 October 2018</span></div>
           </div>
           <div class="bill_delay col-2">
             <span>Delay</span>
@@ -89,7 +89,7 @@
           </div>
           <div class="bill_wrapper-info col-8">
             <p class="bill_name">Sos PC<span class="bill_name-specific">(PC Repair)</span></p>
-            <div class="to_pay"><span class="to_pay">310 €</span><span class="date">to paid before 12 October 2018</span></div>
+            <div class="to_pay"><span class="to_pay">310 €</span><span class="date">pay the 12 October 2018</span></div>
           </div>
           <div class="bill_delay col-2">
             <span>Delay</span>

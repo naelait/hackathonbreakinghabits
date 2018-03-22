@@ -65,7 +65,7 @@
 						<span>50 €</span>
 					</div>
 					<div class="paid col-2">
-						<span>paid</span>
+						<span>pay</span>
 					</div>
 				</div>
 				<div class="row">
@@ -73,7 +73,7 @@
 						<span></span>
 					</div>
 					<div class="date col-5">
-						<span>13 Novenber 2018</span>
+						<span>13 November 2018</span>
 					</div>
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 						<span>90 €</span>
 					</div>
 					<div class="paid col-2">
-						<span>paid</span>
+						<span>pay</span>
 					</div>
 				</div>
 				<div class="row">
@@ -113,7 +113,7 @@
 						<span>110 €</span>
 					</div>
 					<div class="paid col-2">
-						<span>paid</span>
+						<span>pay</span>
 					</div>
 				</div>
 				<div class="row">
