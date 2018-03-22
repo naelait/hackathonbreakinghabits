@@ -3,6 +3,9 @@
   margin: 0;
   padding: 0; }
 
+.row {
+  margin-right: 15px; }
+
 header.index-header.container-fluid {
   padding: 0; }
 

@@ -3,9 +3,10 @@
 <head>
 	<title>breakinghabitshackathon</title>
 	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
+
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
   <link rel="stylesheet" type="text/css" href="assets/style/css/styleDelay.css">
-	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script defer src="assets/style/fontawesome-free-5.0.4/svg-with-js/js/fontawesome-all.js"></script>
 </head>
