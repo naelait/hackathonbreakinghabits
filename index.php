@@ -3,6 +3,15 @@
 <head>
 	<title>breakinghabitshackathon</title>
 	<meta charset="utf-8">
+	<link rel="manifest" href="manifest.json">
+	<link rel="apple-touch-icon" sizes="120x120" href="assets/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+	<link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico" />
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-config" content="assets/img/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
 	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
   <link rel="stylesheet" type="text/css" href="assets/style/css/styleFACTURE.css">
