@@ -38,13 +38,13 @@
 		<nav class="index-nav">
 			<ul>
 				<li class="nav-elem nav-elem-active">
-					<a href="#" class="">History</a>
+					<a href="historique.php" class="">History</a>
 				</li>
 				<li class="nav-elem">
-					<a href="#" class="">Bills</a>
+					<a href="facture.php" class="">Bills</a>
 				</li>
 				<li class="nav-elem">
-					<a href="#" class="" >Delay</a>
+					<a href="delay.php" class="" >Delay</a>
 				</li>
 			</ul>
 		</nav>
