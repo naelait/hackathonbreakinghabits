@@ -1,0 +1,69 @@
+main{
+    background-color: #f5f2f2;
+  }
+  
+  /* *{
+    outline:1px solid green;
+  } */
+  
+  .bill{
+    height:70px;  display:flex;
+    align-items:center;
+  
+  }
+  .bill_button {
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    height:100%;
+    width:18%;
+  }
+  .bill_pay span{
+    display:inline-block;
+    font-size:14px;
+  }
+  .bill_delay span{
+   display:inline-block;
+   font-size:14px;
+  }
+  
+  .bill_pay{
+    background-color: rgb(109, 201, 109);
+  
+  }
+  .bill_delay{
+    background-color: #ff6200;
+  }
+  
+  
+  .bill_wrapper-info{
+    width:66%;
+    display:flex;
+    flex-direction:column;
+    padding-left:10px;
+    height:100%;
+  }
+  .bill_name-specific {
+  
+    color: #737373;
+    font-size: 12PX;
+    width:15%;
+  }
+  .bill_name{
+    padding-top: 10px;;
+    display:inline-block;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+  }
+  .bill_name span{
+    padding-left: 10px;
+  }
+  .to_pay {
+    color: #737373;
+    padding-right: 10px;
+    
+    }
+  .date {
+    font-size: 10PX !important;
+  }

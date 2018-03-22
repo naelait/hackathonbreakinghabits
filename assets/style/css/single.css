@@ -16,3 +16,12 @@
 .single-header i{
     padding-right:10px;
 }
+.bill-info{
+    margin-left:15px !important;
+}
+.bill-info p{
+    margin-bottom:7px;;
+}
+.single-adresse{
+    padding:25px;
+}

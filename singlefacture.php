@@ -13,7 +13,7 @@
 </head>
 <body>
     <header class="single-header">
-        <a href="hackathonbreakinghabits/actures.php
+        <a href="facture.php
         ">
             <i class="fas fa-arrow-left"></i>
         </a>
@@ -22,16 +22,31 @@
 
 	<main>
         <div class="single-adresse">
-            <p>Adresse</p>
-            <p>Avenue of london, 16</p>
-            <p>Brussels</p>
-            <div>
-                <span>Account:</span>
-                <span>1457-25657-225-2588</span>
+            <div >
+                <h3>Bill information</h3>
+                <div class="bill-info">
+                    <p>Total :<span>50€</span> tax included</p>
+                    <p>gaz: <span>23€</span></p>
+                    <p>electricity: <span>27€</span></p>
+                </div>
+
+
+
             </div>
-            <p>phone number: <span>0324 77 88 99</span></p>
-            <p>Email: <span>bill@electrabel.com</span></p>
-            <p>TVA : number <span>05798985214</span></p>
+            <div class=" info-biller">
+                <h3>Responsible party informations</h3>
+                <div class="bill-info">
+                    <p>Adresse</p>
+                    <p>Avenue of london, 16 <span>Brussels</span></p>
+
+                        <p>Account :<span>1457-25657-225-2588</span></p>
+                        
+
+                    <p>Phone number: <span>0324 77 88 99</span></p>
+                    <p>Email: <span>bill@electrabel.com</span></p>
+                    <p>TVA : number <span>05798985214</span></p>
+                </div>
+            </div>
 
 
         </div>
