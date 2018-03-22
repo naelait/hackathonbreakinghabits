@@ -1,6 +1,12 @@
 main{
   background-color: #f5f2f2;
 }
+.bill {
+  border-bottom: 15px solid white;
+}
+/* .bill .container-fluid{
+  height: 75px !important;
+} */
 .bill_wrapper-info {
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -20,27 +26,35 @@ main{
 .bill_delay{
   text-align: center;
   transform: rotate(90deg);
-  background-color: red;
+  background-color: lightblue;
   padding-top: 25px !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 
 }
 .bill_name {
-  margin-left: 25PX;
-  font-weight: bold;
+  margin-left: 30PX;
+  font-weight: ;
   margin-right: 25PX !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 .bill_name-specific {
+  color: #737373;
   font-weight: normal !important;
   font-size: 12PX;
   margin-left: 5PX;
 }
-.topay {
+.to_pay {
+  color: #737373;
   font-weight: normal !important;
-  font-size: 12PX;
-  margin-left: 25PX;
+  font-size: 25PX !important;
+  margin-top: -10px !important;
+  padding-left: 15px !important;
+  padding-right: 0 !important;
+}
+.date {
+  font-size: 10PX !important;
+  padding-left: 5px;
 }
 /*# sourceMappingURL=styleFacture.css.map */
