@@ -4,6 +4,7 @@
 	<title>breakinghabitshackathon</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
+  <link rel="stylesheet" type="text/css" href="assets/style/css/styleFacture.css">
 	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script defer src="assets/style/fontawesome-free-5.0.4/svg-with-js/js/fontawesome-all.js"></script>
@@ -50,14 +51,20 @@
 
 	</header>
 	<main>
-    <div class="bill ">
-      <div class="bill_pay">Pay</div>
-      <div class="bill_wrapper-info">
-        <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
-        <span class="topay">145</span>
-      </div>
-      <div class="bill_delay">
-        Pay later
+    <div class="bill">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="bill_pay col-2">
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info col-8">
+            <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
+            <span class="topay">50</span>
+          </div>
+          <div class="bill_delay col-2">
+            <span>Delay</span>
+          </div>
+        </div>
       </div>
     </div>
 	</main>
