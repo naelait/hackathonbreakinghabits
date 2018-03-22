@@ -10,7 +10,6 @@
 </head>
 <body>
 	<header class="index-header container-fluid">
-		
 		<div class="header-infos">
 			<div class="app-title-wrapper">
 				<h1 class="app-title">ING</h1>
@@ -21,7 +20,6 @@
 					<span class="index_bank-number">1457-8975-6587-6</span>
 				</div> -->
 				<div class="wrapper_info-money">
-
 					<div class="account-balance">
 						<span class="text-before-number">Account balance </span>
 						<span class="index-number index_total-due">4450</span>
@@ -50,11 +48,14 @@
 
 	</header>
 	<main>
-		<div class="bill">
-			<div>Pay</div>
-			<div>
-				<span class="bill_name">Electrabel</span>
+		<div class="bill ">
+			<div class="bill_pay">Pay</div>
+			<div class="bill_wrapper-info">
+				<p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity</span></p>
 				<span class="topay">145</span>
+			</div>
+			<div class="bill_delay">
+				Pay later
 			</div>
 		</div>
 	</main>

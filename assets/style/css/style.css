@@ -13,7 +13,7 @@ html, body {
   font-size: 16px; }
 
 .index-header {
-  height: 25%; }
+  height: 152px; }
 
 .header-infos {
   background-color: #FF6200;
@@ -67,7 +67,7 @@ html, body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #e96c18;
+  background-color: #dddbda;
   margin: 0;
   height: 60px; }
   .index-nav ul .nav-elem {
@@ -84,8 +84,5 @@ html, body {
       line-height: 4; }
     .index-nav ul .nav-elem .nav-elem > a:hover .nav-elem {
       background-color: #fff; }
-
-.bill {
-  width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
