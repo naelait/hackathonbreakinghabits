@@ -1,0 +1,46 @@
+main{
+  background-color: #f5f2f2;
+}
+.bill_wrapper-info {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.bill_pay{
+  text-align: center;
+  transform: rotate(270deg);
+  background-color: lightgreen;
+  padding-top: 25px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.bill_delay{
+  text-align: center;
+  transform: rotate(90deg);
+  background-color: red;
+  padding-top: 25px !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+
+}
+.bill_name {
+  margin-left: 25PX;
+  font-weight: bold;
+  margin-right: 25PX !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.bill_name-specific {
+  font-weight: normal !important;
+  font-size: 12PX;
+  margin-left: 5PX;
+}
+.topay {
+  font-weight: normal !important;
+  font-size: 12PX;
+  margin-left: 25PX;
+}
+/*# sourceMappingURL=styleFacture.css.map */

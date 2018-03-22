@@ -1,0 +1,57 @@
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.nom_facture{
+  text-align: right;
+  color: #0f0f0f;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 10px !important;
+}
+.montant {
+  /* padding-left: 50px !important; */
+  text-align: right;
+  color: green;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 4px !important;
+}
+.description{
+  font-size: 10px !important;
+  color: #737373;
+  padding-top: 15px;
+  padding-left: 2px !important;
+  padding-right: 0 !important;
+  border-right: 1px solid #737373 !important;
+}
+.date{
+  color: #737373;
+  font-size: 12px !important;
+  text-align: left;
+  margin-top: -10px !important;
+  padding-right: 0 !important;
+  padding-left: 23px !important;
+
+}
+.paid{
+  font-size: 12px;
+  padding-top: 6px;
+  padding-left: 5px !important;
+  padding-right: 0 !important;
+}
+
+
+#historique{
+  background-color: #f5f2f2;
+}
+#facture_1 {
+  background-color: #e3e3e3;
+}
+#facture_2 {
+
+}
+#facture_3 {
+  background-color: #e3e3e3;
+}
+/*# sourceMappingURL=styleHistorique.css.map */
