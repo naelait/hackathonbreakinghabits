@@ -41,7 +41,7 @@
 					<a href="historique.php" class="">History</a>
 				</li>
 				<li class="nav-elem">
-					<a href="facture.php" class="">Bills</a>
+					<a href="index.php" class="">Bills</a>
 				</li>
 				<li class="nav-elem">
 					<a href="delay.php" class="" >Delay</a>

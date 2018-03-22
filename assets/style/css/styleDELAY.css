@@ -36,7 +36,6 @@ main{
     background-color: #ff6200;
   }
   
-  
   .bill_wrapper-info{
     width:66%;
     display:flex;
@@ -45,7 +44,6 @@ main{
     height:100%;
   }
   .bill_name-specific {
-  
     color: #737373;
     font-size: 12PX;
     width:15%;
@@ -62,8 +60,31 @@ main{
   .to_pay {
     color: #737373;
     padding-right: 10px;
-    
     }
   .date {
     font-size: 10PX !important;
   }
+  .callback{
+    font-size:13px;
+  }
+  .refused{
+    background-color: rgb(230, 30, 30);
+  }
+  .refusedtext{
+    color: hsl(10, 80%, 51%);
+  }
+
+  #confirmedBGC{
+    background-color: lightgrey !important;
+  }
+  .confirmed{
+    color: rgb(67, 207, 49);
+  }
+
+  .bill_delay.refused i{
+    color:#fff;
+  }
+
+  /* DELAY1 */
+
+  

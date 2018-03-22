@@ -5,7 +5,8 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
-  <link rel="stylesheet" type="text/css" href="assets/style/css/styleDELAY.css">
+	<link rel="stylesheet" type="text/css" href="assets/style/css/styleDELAY.css">
+  <link rel="stylesheet" type="text/css" href="assets/style/css/styleDELAY1.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script defer src="assets/style/fontawesome-free-5.0.4/svg-with-js/js/fontawesome-all.js"></script>
 </head>
@@ -40,18 +41,32 @@
 				<li class="nav-elem">
 					<a href="historique.php" class="">History</a>
 				</li>
-				<li class="nav-elem ">
+				<li class="nav-elem nav-elem-active">
 					<a href="index.php" class="">Bills</a>
 				</li>
-				<li class="nav-elem nav-elem-active">
-					<a href="delay.php"  >Delay</a>
+				<li class="nav-elem ">
+					<a href="delay.php" class="requestofdelay" >Delay</a>
 				</li>
 			</ul>
 		</nav>
-
 	</header>
 
 	<main>
+		<div class="bill">
+          <div class="bill_button  bill_pay ">
+				<i class="far fa-credit-card"></i>
+            <span>Pay now</span>
+          </div>
+          <div class="bill_wrapper-info ">
+            <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
+            <p class="callback  refusedtext request-send">The request has been refused.</p>
+          </div>
+          <div class="bill_button bill_delay refused">
+            <i class="fas fa-exclamation-circle"></i>
+            <span>Delay</span>
+					</div>
+					
+    </div>
     <div class="bill">
           <div class="bill_button  bill_pay ">
 				<i class="far fa-credit-card"></i>
@@ -64,7 +79,8 @@
           <div class="bill_button bill_delay refused">
             <i class="fas fa-exclamation-circle"></i>
             <span>Delay</span>
-          </div>
+					</div>
+					
     </div>
     <div class="bill">
           <div class="bill_button  bill_pay ">

@@ -1,0 +1,15 @@
+
+.requestofdelay{
+  position:relative;
+}
+.requestofdelay::after{
+    content:'';
+    position:absolute;
+    height:10px;
+    width:10px;
+    background-color: #f86d00;
+    top:calc(50% - 5px);
+    border-radius:50%;
+    right:25px;
+  }	
+  

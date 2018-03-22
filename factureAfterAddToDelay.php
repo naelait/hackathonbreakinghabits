@@ -5,7 +5,8 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="assets/style/bootstrap-4.0.0-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/style/css/style.css">
-  <link rel="stylesheet" type="text/css" href="assets/style/css/styleFACTURE.css">
+    <link rel="stylesheet" type="text/css" href="assets/style/css/styleFACTURE.css">
+    <link rel="stylesheet" type="text/css" href="assets/style/css/styleDELAY1.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script defer src="assets/style/fontawesome-free-5.0.4/svg-with-js/js/fontawesome-all.js"></script>
 </head>
@@ -36,10 +37,10 @@
 					<a href="historique.php" class="">History</a>
 				</li>
 				<li class="nav-elem nav-elem-active">
-					<a href="facture.php" class="">Bills</a>
+					<a href="index.php" class="">Bills</a>
 				</li>
 				<li class="nav-elem ">
-					<a href="delay.php" class="" >Delay</a>
+					<a href="delayADDED.php" class="requestofdelay" >Delay</a>
 				</li>
 			</ul>
 		</nav>
@@ -58,10 +59,10 @@
 							<span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span>
 						</div>
           </a>
-          <div class="bill_button bill_delay ">
+          <a href='calendar.php' class="bill_button bill_delay ">
 						<i class="far fa-clock"></i>
             <span>Delay</span>
-          </div>
+          </a>
 		</div>
 		<div class="bill">
           <div class="bill_button  bill_pay ">

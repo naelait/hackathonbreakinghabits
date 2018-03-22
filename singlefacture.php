@@ -13,14 +13,14 @@
 </head>
 <body>
     <header class="single-header">
-        <a href="facture.php
-        ">
+        <a href="index.php">
             <i class="fas fa-arrow-left"></i>
-        </a>
+        </a>    
             <h1 class="single-title">Electrabel</h1>
     </header>
 
 	<main>
+
         <div class="single-adresse">
             <div >
                 <h3>Bill information</h3>
@@ -29,8 +29,6 @@
                     <p>gaz: <span>23€</span></p>
                     <p>electricity: <span>27€</span></p>
                 </div>
-
-
 
             </div>
             <div class=" info-biller">
