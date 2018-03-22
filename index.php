@@ -10,10 +10,11 @@
 </head>
 <body>
 	<header class="index-header container-fluid">
+
 		<div class="header-infos">
 			<div class="app-title-wrapper">
 				<h1 class="app-title">ING</h1>
-			</div>	
+			</div>
 			<div class="wrapper_info-user">
 				<!-- <div class="wrapper_name-number">
 					<span>John Doe</span>
@@ -35,7 +36,7 @@
 		<nav class="index-nav">
 			<ul>
 				<li class="nav-elem">
-					<a href="#" class="">Historic</a>
+					<a href="#" class="">History</a>
 				</li>
 				<li class="nav-elem nav-elem-active">
 					<a href="#" class="">Bills</a>
