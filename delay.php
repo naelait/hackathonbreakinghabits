@@ -53,15 +53,67 @@
 	</header>
 
 	<main>
-    <div class="bills">
-          <div class="bill_pay ">
+    <div class="bill">
+          <div class="bill_button  bill_pay ">
+						<i class="far fa-credit-card"></i>
             <span>Pay</span>
           </div>
           <div class="bill_wrapper-info ">
             <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
-            <div class="to_pay"><span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span></div>
+						<div class="to_pay">
+							<span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span>
+						</div>
           </div>
-          <div class="bill_delay ">
+          <div class="bill_button bill_delay ">
+						<i class="far fa-clock"></i>
+            <span>Delay</span>
+          </div>
+		</div>
+		<div class="bill">
+          <div class="bill_button  bill_pay ">
+						<i class="far fa-credit-card"></i>
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info ">
+            <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
+						<div class="to_pay">
+							<span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span>
+						</div>
+          </div>
+          <div class="bill_button bill_delay ">
+						<i class="far fa-clock"></i>
+            <span>Delay</span>
+          </div>
+		</div>
+		<div class="bill">
+          <div class="bill_button  bill_pay ">
+						<i class="far fa-credit-card"></i>
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info ">
+            <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
+						<div class="to_pay">
+							<span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span>
+						</div>
+          </div>
+          <div class="bill_button bill_delay ">
+						<i class="far fa-clock"></i>
+            <span>Delay</span>
+          </div>
+		</div>
+		<div class="bill">
+          <div class="bill_button  bill_pay ">
+						<i class="far fa-credit-card"></i>
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info ">
+            <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
+						<div class="to_pay">
+							<span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span>
+						</div>
+          </div>
+          <div class="bill_button bill_delay ">
+						<i class="far fa-clock"></i>
             <span>Delay</span>
           </div>
     </div>

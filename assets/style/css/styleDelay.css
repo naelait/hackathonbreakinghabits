@@ -1,39 +1,67 @@
 main{
   background-color: #f5f2f2;
 }
-.bill {
-  border-bottom: 15px solid white;
-}
+
 /* *{
   outline:1px solid green;
 } */
-.bills{
-  padding:0;
+
+.bill{
+  height:70px;  display:flex;
+  align-items:center;
+
 }
-
-
+.bill_button {
+  display:flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  height:100%;
+  width:18%;
+}
+.bill_pay span{
+  display:inline-block;
+  font-size:14px;
+}
+.bill_delay span{
+ display:inline-block;
+ font-size:14px;
+}
 
 .bill_pay{
-  text-align: center;
-  transform: rotate(270deg);
   background-color: rgb(109, 201, 109);
-  
+
+}
+.bill_delay{
+  background-color: #ff6200;
 }
 
-.bill_delay{
-  text-align: center;
-  transform: rotate(90deg);
-  background-color: #ff6200;
-  
+
+.bill_wrapper-info{
+  width:66%;
+  display:flex;
+  flex-direction:column;
+  padding-left:10px;
+  height:100%;
 }
 .bill_name-specific {
+
   color: #737373;
   font-size: 12PX;
+  width:15%;
+}
+.bill_name{
+  padding-top: 10px;;
+  display:inline-block;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.bill_name span{
+  padding-left: 10px;
 }
 .to_pay {
   color: #737373;
-  font-weight: normal !important;
-  font-size: 25PX !important;
+  padding-right: 10px;
   
   }
 .date {
