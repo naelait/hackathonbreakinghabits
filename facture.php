@@ -51,21 +51,52 @@
 
 	</header>
 	<main>
-    <div class="bill">
-      <div class="container-fluid">
+    <div class="bills">
+      <div class="bill container-fluid">
         <div class="row">
           <div class="bill_pay col-2">
             <span>Pay</span>
           </div>
           <div class="bill_wrapper-info col-8">
             <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
-            <span class="topay">50</span>
+            <div class="to_pay"><span class="to_pay">50 €</span><span class="date">to paid before 18 November 2018</span></div>
           </div>
           <div class="bill_delay col-2">
             <span>Delay</span>
           </div>
         </div>
       </div>
+
+      <div class="bill container-fluid">
+        <div class="row">
+          <div class="bill_pay col-2">
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info col-8">
+            <p class="bill_name">Proximus<span class="bill_name-specific">(Tv and Telecom)</span></p>
+            <div class="to_pay"><span class="to_pay">90 €</span><span class="date">to paid before 22 October 2018</span></div>
+          </div>
+          <div class="bill_delay col-2">
+            <span>Delay</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="bill container-fluid">
+        <div class="row">
+          <div class="bill_pay col-2">
+            <span>Pay</span>
+          </div>
+          <div class="bill_wrapper-info col-8">
+            <p class="bill_name">Sos PC<span class="bill_name-specific">(PC Repair)</span></p>
+            <div class="to_pay"><span class="to_pay">310 €</span><span class="date">to paid before 12 October 2018</span></div>
+          </div>
+          <div class="bill_delay col-2">
+            <span>Delay</span>
+          </div>
+        </div>
+      </div>
+
     </div>
 	</main>
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

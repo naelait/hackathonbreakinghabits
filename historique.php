@@ -110,7 +110,7 @@
 						<span>(PC Reppair)</span>
 					</div>
 					<div class="montant col-2">
-						<span>50 €</span>
+						<span>110 €</span>
 					</div>
 					<div class="paid col-2">
 						<span>paid</span>
