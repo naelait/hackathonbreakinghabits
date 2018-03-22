@@ -51,24 +51,22 @@
 		</nav>
 
 	</header>
+
 	<main>
     <div class="bills">
-      <div class="bill container-fluid">
-        <div class="row">
-          <div class="bill_pay col-2">
+          <div class="bill_pay ">
             <span>Pay</span>
           </div>
-          <div class="bill_wrapper-info col-8">
+          <div class="bill_wrapper-info ">
             <p class="bill_name">Electrabel<span class="bill_name-specific">(Gaz and Electricity)</span></p>
             <div class="to_pay"><span class="to_pay">50 €</span><span class="date">pay the 18 November 2018</span></div>
           </div>
-          <div class="bill_delay col-2">
+          <div class="bill_delay ">
             <span>Delay</span>
           </div>
-        </div>
-      </div>
+    </div>
 
-      <div class="bill container-fluid">
+      <!-- <div class="bill container-fluid">
         <div class="row">
           <div class="bill_pay col-2">
             <span>Pay</span>
@@ -96,7 +94,7 @@
             <span>Delay</span>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
 	</main>

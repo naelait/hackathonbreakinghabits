@@ -7,15 +7,16 @@ main{
 /* *{
   outline:1px solid green;
 } */
-/* .bill .container-fluid{
-  height: 75px !important;
-} */
+.bills{
+  padding:0;
+}
+
 
 
 .bill_pay{
   text-align: center;
   transform: rotate(270deg);
-  background-color: lightgreen;
+  background-color: rgb(109, 201, 109);
   
 }
 
