@@ -27,7 +27,7 @@ self.addEventListener('notificationclick', function(e) {
   if (action === 'close') {
     notification.close();
   } else {
-    clients.openWindow('index.php');
+    clients.openWindow('index.html');
     notification.close();
   }
 });

@@ -3,8 +3,17 @@
   margin: 0;
   padding: 0; }
 
+
+
+
 html {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 375px;
+  max-height: 667px;
+}
 
 *, *:before, *:after {
   box-sizing: inherit;
