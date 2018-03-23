@@ -32,6 +32,7 @@
         background-color:#FE7A22; 
         color:black; 
         border:none;
+        margin:0 auto;
        }
        .contbtn a{
            width:100%;
@@ -44,9 +45,9 @@
     <div id="popup">
            <div id="contPopup">
                 <p><strong>the request as been sent</strong></p>
-                <button class="contbtn">
+                <div class="contbtn">
                   <a href="delayADDED.php">ok</a>
-                </button> 
+                </div> 
            </div>
             
         </div>

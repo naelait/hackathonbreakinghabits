@@ -62,7 +62,9 @@
 		</p>
 
 		<footer>
-			<button class="confirm"><a href="facture2.php">Confirm</a></button> 
+			<div class="confirm">
+				<a href="facture2.php">Confirm</a>
+			</div> 
 			
 		</footer>
 	</div>
